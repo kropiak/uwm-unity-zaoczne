@@ -1,4 +1,4 @@
-# Projektowanie gier w środowisku UNITY, semestr 2024Z/2025L
+# Projektowanie gier w środowisku UNITY, semestr 2024Z/2025L, studia zaoczne
 
 ## **1. Cele przedmiotu.**
 
@@ -35,3 +35,4 @@ W projekcie gry należy uwzględnić:
 5. [Kodeco (wcześniej Raywenderlich.com)](https://www.kodeco.com/library?q=unity) - duży zbiór tutoriali (nie tylko dla Unity), również płatnych. Dobra jakość materiałów.
 6. [CGCookie](https://cgcookie.com/search/query?q=unity&category=&type=) - bardziej kojarzony ze środowiskiem Blender 3D, ale te dwie platformy znjadują się we wspólnym ekosystemie gier video. Minusem bez wątpienia mała ilość darmowego contentu, plusem - wysoka jakość.
 7. [CGCookie YouTube](https://www.youtube.com/user/unitycookie/) - kanał YouTube grupy CGCookie.
+8. Warto też zerknąć tu: https://www.classcentral.com/report/best-unity-courses/
