@@ -2,7 +2,7 @@
 
 ## *Interfejs UnityEditor*
    
-![Interfejs](full_interface.png)   
+![Interfejs](full_interface.png)
 
 ### **1. SceneView**
 
@@ -126,7 +126,7 @@ Trybu pauzy nie trzeba chyba tłumaczyć. Ostatni przycisk służy do przechodze
 
 1. Przeczytaj treść pliku [readme](../lab_00/readme.md) (możesz się też wspomóc plikiem [konfiguracja Git](../lab_00/konfiguracja_git.md)) z folderu lab_00 i zainstaluj niezbędne oprogramowanie.
 2. Utwórz projekt testowy Unity i skonfiguruj narzędzie Git do pracy z tym projektem. Stwórz zdalne repozytorium (GitHub, Bitbucket, Azure DevOps) i wypchnij do niego lokalne repozytorium. Pamiętaj o przygotowaniu odpowiedniego pliku `.gitignore`.
-3. Aby bliżej zapoznać się z dostępnymi modelami stwórz z dostępnych brył model, który będzie przypominał Stonehenge. Nie musisz używać żadnych tekstur ani dokładnych modeli - tylko to co można zrobić w edytorze Unity. Podziel się efektem swojej pracy w postaci screenu na kanale spotkania.
+3. Aby bliżej zapoznać się z dostępnymi modelami stwórz z dostępnych brył model, który będzie przypominał Stonehenge. Nie musisz używać żadnych tekstur ani dokładnych modeli - tylko to co można zrobić w edytorze Unity z brył prymitywnych. Podziel się efektem swojej pracy w postaci screenu na kanale spotkania.
 4. Uruchom lokalny manual (jeżeli opcja instalacji dokumentacji została zaznaczona) z menu Help -> Unity manual i przeanalizuj sekcję "Working in Unity". Możesz tę sekcję znaleźć również tu: [https://docs.unity3d.com/Manual/UnityOverview.html](https://docs.unity3d.com/Manual/UnityOverview.html)
-5. Zastanów się nad tematyką gry, którą chciałbyś stworzyć w ramach projektu zaliczeniowego. Na kolejnych zajęciach zostanie sporządzona lista projektów zaliczeniowych.
-6. Jeżeli uważasz, że wiedza z zakresu znajomości języka C# wymaga odświeżenia to może warto zacząć od [Wstęp do programowania w C#](c_sharp_wer2_0.pdf). W trakcie zajeć będzie prezentowany kod w języku C#, jednak omawianie samego języka nie zostało przewidziane w programie przedmiotu.
+
+5. Jeżeli uważasz, że wiedza z zakresu znajomości języka C# wymaga odświeżenia to może warto zacząć od [Wstęp do programowania w C#](c_sharp_wer2_0.pdf). W trakcie zajeć będzie prezentowany kod w języku C#, jednak omawianie samego języka nie zostało przewidziane w programie przedmiotu.

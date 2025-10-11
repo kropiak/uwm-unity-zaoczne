@@ -22,16 +22,16 @@ Opcje dostępne w **Projects** pozwalają przeglądać istniejące projekty, dod
 
 Część **Learn** pozwala na dodanie istniejących projektów gier, stworzonych w celach edukacyjnych. Wystarczy wybrać projekt i opcję "DOWNLOAD PROJECT". Warto zwrócić uwagę na wersję Unity, dla której projekt został stworzony, będzie to gwarancja kompatybilności.
 
-**Community** to zbiór przydatnych linków do materiałów dla i od społeczności zgromadzonej wokół Unity.
+**Resources** to zbiór przydatnych linków do materiałów/artykułów i innych zasobów UNITY.
 
 Ostatnia, ale nie najmniej ważna opcja, to **Installs** gdzie możemy pobrać i zainstalować kolejne wersje środowiska, odinstalować istniejące lub zarządzać modułami dla konkretnej zainstalowanej wersji.
 
-W trakcie zajęć wykorzystywana będzie wersja **2022.3.48f1 LTS**. Jest to wersja o długim wsparciu technicznym. Pobranie i instalacja wymaga sporo czasu (dużo zależy od szybkości łącza internetowego) więc należy wybrać miejsce z wystarczająco dużą ilością wolnego miejsca. Moduły, które wybieramy na początku to:
+W trakcie zajęć wykorzystywana będzie wersja **6000.0.\* LTS**. Jest to wersja o długim wsparciu technicznym. Pobranie i instalacja wymaga sporo czasu (dużo zależy od szybkości łącza internetowego) więc należy wybrać miejsce z wystarczająco dużą ilością wolnego miejsca. Moduły, które wybieramy na początku to:
 * **Windows Build support** lub **Linux build support** lub **Mac build support** w zależności od używanego systemeu operacyjnego,
 * **Microsoft Visual Studio 2022 Community** lub **Visual Studio Code**,
 * **Documentation** (opcjonalnie) - jeżeli ktoś planuje pracę w trybie offline i nie będzie miał dostępu do dokumentacji dostępnej w Internecie.
 
-Kod w śorodiwsku UNITY piszemy w języku C# i można wybrać inny edytor niż **Visual Studio 2022 Community**, ale to rozwiązanie ze względu na oficjalne wsparcie wydaje się dobrym połączeniem na start i będzie wykorzystywane w trakcie zajęć. Używanie Visual Studio Code nie powinno powodować większych problemów. 
+Kod w śorodiwsku UNITY piszemy w języku C# i można wybrać inny edytor niż **Visual Studio Community**, ale to rozwiązanie ze względu na oficjalne wsparcie wydaje się dobrym połączeniem na start i będzie wykorzystywane w trakcie zajęć. Używanie **Visual Studio Code** nie powinno powodować większych problemów. 
 
 
 ## 2. Konfiguracja systemu Git dla projektu Unity.
