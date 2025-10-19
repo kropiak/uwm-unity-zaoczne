@@ -55,7 +55,7 @@ Oczywiście należy pamiętać, że jeżeli nie przypiszemy obiektu typu `Rigidb
 
 Jak widać w każdym powyższym fragmencie kodu każda nasza klasa dziedziczy po klasie `MonoBehaviour`. 
 
-> **Klasa [MonoBehaviour](https://docs.unity3d.com/ScriptReference/6000.0/Documentation/MonoBehaviour.html)**  
+> **Klasa [MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)**  
 > Jest to klasa, po której dziedziczy każdy nowy skrypt stworzony z poziomu UnityEditor. Ta klasa dostarcza mechanizm pozwalający na podpinanie skryptów pod obiekty gry jako komponenty oraz zapewnia interfejs pozwalający na umieszczenie kodu uruchamianego w określonym momencie pracy silnika lub po wystąpieniu określonego zdarzenia.
 
 Poniżej przykładowy pusty szablon klasy po dodaniu nowego skryptu:
@@ -100,7 +100,7 @@ public class Ball : MonoBehaviour {
     void FixedUpdate()
     {
         // składowa y wektora prędkości
-        if(rb.velocity.y == 0)
+        if(rb.linearVelocity.y == 0)
         {
             // działamy siłą na ciało A :)
             rb.AddForce(Vector3.up * force, ForceMode.Impulse);
