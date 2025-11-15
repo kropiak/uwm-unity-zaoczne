@@ -385,7 +385,7 @@ Przygotuj skrypt i przykład platformy poruszającej się horyzontalnie w momenc
 Przygotuj prosty model drzwi przesuwanych poziomo, które będą otwierane jeżeli gracz znajdzie się odpowiednio blisko jednej ze stron drzwi.
 
 **Zadanie 3**  
-Z przykładów z zajęć oraz zadania 1 przygotuj skrypt, który pozwoli na obsłużenie platformy, która może poruszać się dowolnie w przestrzeni od punktu do punktu. Punkty (w postaci obiektu `Vector3`) są przechowywane w dowolnej wybranej kolekcji. Wypróbuj możliwość dodawania kolejnych waypointów poprzez panel `Inspector`. Platforma porusza się od pierwszego do kolejnego punktu i jak dotrze do ostatniego punktu, zawraca (czyli podąża tą samą drogą w przeciwnym kierunku).
+Z przykładów z zajęć oraz zadania 1 przygotuj skrypt, który pozwoli na obsłużenie platformy, która może poruszać się dowolnie w przestrzeni od punktu do punktu. Punkty (w postaci obiektu `Vector3` lub `Transform` lub `GameObject`) są przechowywane w dowolnej wybranej kolekcji. Wypróbuj możliwość dodawania kolejnych waypointów poprzez panel `Inspector`. Platforma porusza się od pierwszego do kolejnego punktu i jak dotrze do ostatniego punktu, zawraca (czyli podąża tą samą drogą w przeciwnym kierunku).
 
 **Zadanie 5**  
 _(Zadanie dotyczy poziomu z lab 04)_    
